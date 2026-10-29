@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261028-191736-9et3",
+      "title": "Dua Leapa",
+      "commanders": [
+        "Dua Leapa"
+      ],
+      "guild": {
+        "id": "DA835590-BFBA-4D4C-BF10-014905F32E00",
+        "name": "Incoming Quaggans",
+        "tag": "íQ"
+      },
+      "dateStart": "2026-10-29T01:17:36.000Z",
+      "dateEnd": "2026-10-29T02:23:19.344Z",
+      "dateLabel": "10/28/2026, 7:17:36 PM - 10/28/2026, 8:23:19 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261028-191736-9et3",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 0.8936170212765957,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261027-190946-qqjd",
       "title": "Warsworn Immortal",
       "commanders": [
