@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261102-191200-fdvt",
+      "title": "Alacka Sam, Warsworn Immortal",
+      "commanders": [
+        "Alacka Sam",
+        "Warsworn Immortal"
+      ],
+      "guild": {
+        "id": "DFCC36EA-31D3-EB11-81AC-95DFE50946EB",
+        "name": "Immortals of the Mîsts",
+        "tag": "IoM"
+      },
+      "dateStart": "2026-11-03T02:12:00.000Z",
+      "dateEnd": "2026-11-03T03:16:04.028Z",
+      "dateLabel": "11/2/2026, 7:12:00 PM - 11/2/2026, 8:16:04 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261102-191200-fdvt",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 0.5714285714285714,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261028-191736-9et3",
       "title": "Dua Leapa",
       "commanders": [
