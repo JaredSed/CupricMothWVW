@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261106-191720-d443",
+      "title": "Munchkin Screed",
+      "commanders": [
+        "Munchkin Screed"
+      ],
+      "guild": {
+        "id": "D8AA9D4D-AF60-482E-882C-857AC88C7ED8",
+        "name": "Company Of Traveling Heroes",
+        "tag": "CTH"
+      },
+      "dateStart": "2026-11-07T02:17:20.000Z",
+      "dateEnd": "2026-11-07T03:11:44.619Z",
+      "dateLabel": "11/6/2026, 7:17:20 PM - 11/6/2026, 8:11:44 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261106-191720-d443",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261102-191200-fdvt",
       "title": "Alacka Sam, Warsworn Immortal",
       "commanders": [
