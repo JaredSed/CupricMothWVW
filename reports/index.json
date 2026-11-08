@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261107-192255-0oa6",
+      "title": "Thiela Bronn",
+      "commanders": [
+        "Thiela Bronn"
+      ],
+      "guild": {
+        "id": "4D2845F7-C7F8-E811-81A8-CD1049069AE5",
+        "name": "Winters Hearth",
+        "tag": "Home"
+      },
+      "dateStart": "2026-11-08T02:22:55.000Z",
+      "dateEnd": "2026-11-08T03:34:33.053Z",
+      "dateLabel": "11/7/2026, 7:22:55 PM - 11/7/2026, 8:34:33 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261107-192255-0oa6",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261106-191720-d443",
       "title": "Munchkin Screed",
       "commanders": [
