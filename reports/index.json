@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261114-190726-chsm",
+      "title": "Perfectxrecord",
+      "commanders": [
+        "Perfectxrecord"
+      ],
+      "guild": {
+        "id": "DBEA7913-74F8-4005-9111-A3CB1AC76B4D",
+        "name": "Dark Cloud",
+        "tag": "DC"
+      },
+      "dateStart": "2026-11-15T02:07:26.000Z",
+      "dateEnd": "2026-11-15T03:05:04.261Z",
+      "dateLabel": "11/14/2026, 7:07:26 PM - 11/14/2026, 8:05:04 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261114-190726-chsm",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 31,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261107-192255-0oa6",
       "title": "Thiela Bronn",
