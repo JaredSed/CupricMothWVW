@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261124-190819-mfh0",
+      "title": "Perfectxrecord",
+      "commanders": [
+        "Perfectxrecord"
+      ],
+      "guild": {
+        "id": "DBEA7913-74F8-4005-9111-A3CB1AC76B4D",
+        "name": "Dark Cloud",
+        "tag": "DC"
+      },
+      "dateStart": "2026-11-25T02:08:19.000Z",
+      "dateEnd": "2026-11-25T03:09:13.021Z",
+      "dateLabel": "11/24/2026, 7:08:19 PM - 11/24/2026, 8:09:13 PM",
+      "url": "https://jaredsed.github.io/CupricMothWVW/?report=20261124-190819-mfh0",
+      "publishedBy": "JaredSed",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261121-191237-031c",
       "title": "Perfectxrecord",
       "commanders": [
